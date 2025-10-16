@@ -750,7 +750,7 @@ function getHTML() {
             <p style="font-size: 1.2rem; line-height: 1.8; margin: 20px 0;">
                 如果你看到這個訊息，代表你發現了小驚喜！<br><br>
                 老師，謝謝您花時間看我的計劃書。<br>
-                網頁程式碼：<br>
+                網頁程式碼： <a href="https://github.com/Johnson8187/up_homework/blob/main/worker.js" target="_blank">Github Repo</a><br><br>
                 希望這個網頁能讓您看到我大學的計畫 😊
             </p>
             <button onclick="closeModal()">關閉</button>
